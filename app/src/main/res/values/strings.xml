@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="app_name2">Profile</string>
+
+    <string name="logoutTitle">Logout</string>
+    <string name="logoutMessage">Are you sure you want to logout ?</string>
+    <string name="mustNotBeEmpty">Must not be empty !</string>
+    <string name="level">Must be debutant or profissional!</string>
+    <string name="Usernameslength">Username must be at least 5 characters</string>
+    <string name="exsit">This username is already taken</string>
+    <string name="noreserv">You Can\'t Reserve on this day!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="checkYourEmail">Check your email !</string>
+    <string name="invalidcode">This code invalid !</string>
+<string-array name="languages">
+    <item>En</item>
+    <item>Fr</item>
+    <item>It</item>
+</string-array>
+</resources>

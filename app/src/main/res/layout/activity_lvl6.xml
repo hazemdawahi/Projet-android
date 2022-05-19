@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3F51B5"
+    tools:context=".lvl6">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/emailid3"
+        android:layout_width="370dp"
+        android:layout_height="84dp"
+        android:hint="Type your answer :"
+        android:inputType="text"
+        android:textColor="#FFFFFF"
+
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/question" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/question"
+        android:layout_width="369dp"
+        android:layout_height="263dp"
+        android:clickable="false"
+
+        android:hint="Question :"
+        android:inputType="text"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoPic10" />
+
+    <ImageView
+        android:id="@+id/logoPic"
+        android:layout_width="410dp"
+        android:layout_height="135dp"
+        android:layout_marginTop="88dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/iconandroid" />
+
+    <ImageView
+        android:id="@+id/logoPic9"
+        android:layout_width="74dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/heart"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/logoPic10"
+        android:layout_width="74dp"
+        android:layout_height="59dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seekBar"
+        app:srcCompat="@drawable/ic_baseline_speaker_24"
+        tools:ignore="MissingConstraints" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnsignup2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/custom_button"
+        android:text="Validate"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:backgroundTint="#05157C"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailid3"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="186dp"
+        android:layout_height="46dp"
+        android:text="Score : 0"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:drawableTint="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/logoPic"
+        app:layout_constraintEnd_toStartOf="@+id/logoPic9"
+        app:layout_constraintHorizontal_bias="0.353"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.657"
+        tools:ignore="MissingConstraints" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="300dp"
+        android:layout_height="17dp"
+        android:max="10"
+        android:progress="7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoPic"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/vieL"
+        android:layout_width="58dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:text="10"
+        android:textColor="#FF0000"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="@+id/logoPic9"
+        app:layout_constraintEnd_toStartOf="@+id/logoPic9"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.777"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

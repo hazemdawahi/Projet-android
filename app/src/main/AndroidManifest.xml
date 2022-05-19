@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mini_projet">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconandroid"
+        android:label="Ilearn"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AbderrahmenDrissDvr">
+        <activity
+            android:name=".lvl8"
+            android:exported="false" />
+        <activity
+            android:name=".lvl7"
+            android:exported="false" />
+        <activity
+            android:name=".lvl6"
+            android:exported="false" />
+        <activity
+            android:name=".lvl5"
+            android:exported="false" />
+        <activity
+            android:name=".lvl4"
+            android:exported="false" />
+        <activity
+            android:name=".lvl3"
+            android:exported="false" />
+        <activity
+            android:name=".lvl2"
+            android:exported="false" />
+        <activity
+            android:name=".userprofile"
+            android:exported="false" />
+        <activity
+            android:name=".EditProfile"
+            android:exported="false" />
+        <activity
+            android:name=".lvl1"
+            android:exported="false" />
+        <activity
+            android:name=".sigup"
+            android:exported="false" />
+        <activity
+            android:name=".forgetpsd"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Paypal"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

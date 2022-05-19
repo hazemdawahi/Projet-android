@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3F51B5"
+    tools:context=".sigup">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/txtLayoutPass"
+        android:layout_width="363dp"
+        android:layout_height="73dp"
+        android:layout_margin="20dp"
+        android:hint="Password"
+        android:textColorHint="#000000"
+        app:errorEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.39"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLayoutEmail"
+        app:startIconDrawable="@drawable/ic_lock"
+        app:startIconTint="@color/colorPrimaryVariant"
+        tools:ignore="MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/pwdid"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:inputType="textPassword"
+            tools:ignore="DuplicateIds" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/txtLayoutLanguage"
+        android:layout_width="365dp"
+        android:layout_height="65dp"
+        android:layout_margin="20dp"
+        android:hint="Language "
+        android:textColorHint="#000000"
+        app:errorEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLayoutConfirmPwd"
+        app:startIconDrawable="@android:drawable/ic_menu_mapmode"
+        app:startIconTint="@color/colorPrimaryVariant"
+        tools:ignore="MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Languageid"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            tools:ignore="DuplicateIds" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/txtLayoutLvl"
+        android:layout_width="369dp"
+        android:layout_height="56dp"
+        android:layout_margin="20dp"
+        android:textColorHint="#000000"
+        app:boxStrokeColor="#000000"
+        app:endIconTint="#000000"
+        app:errorEnabled="true"
+        app:hintTextColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLayoutName"
+        app:startIconDrawable="@android:drawable/btn_star"
+        app:startIconTint="@color/colorPrimaryVariant"
+        tools:ignore="DuplicateIds,MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/lvlid"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:hint="level"
+            android:inputType="text" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/txtLayoutName"
+        android:layout_width="369dp"
+        android:layout_height="62dp"
+        android:layout_margin="20dp"
+        app:errorEnabled="true"
+        app:hintTextColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoPic"
+        app:startIconDrawable="@drawable/ic_account"
+        app:startIconTint="@color/colorPrimaryVariant"
+        tools:ignore="DuplicateIds,MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Nameid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Name"
+            android:inputType="text" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:id="@+id/logoPic"
+        android:layout_width="402dp"
+        android:layout_height="131dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/iconandroid" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/txtLayoutEmail"
+        android:layout_width="364dp"
+        android:layout_height="58dp"
+        android:layout_margin="20dp"
+        android:textColorHint="#000000"
+        app:errorEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLayoutLvl"
+        app:startIconDrawable="@drawable/ic_account"
+        app:startIconTint="@color/colorPrimaryVariant"
+        tools:ignore="MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Email"
+            android:inputType="text"
+            tools:ignore="DuplicateIds" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/custom_button"
+        android:text="S'inscrire"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:backgroundTint="#05157C"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLayoutLanguage"
+        tools:ignore="NotSibling" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/txtLayoutConfirmPwd"
+        android:layout_width="363dp"
+        android:layout_height="64dp"
+        android:layout_margin="20dp"
+        android:hint="Confirm Password"
+        android:textColorHint="#000000"
+        app:errorEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLayoutPass"
+        app:startIconDrawable="@drawable/ic_lock"
+        app:startIconTint="@color/colorPrimaryVariant"
+        tools:ignore="MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/confirmpwdid"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:inputType="textPassword"
+            tools:ignore="DuplicateIds" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/background_border.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/btn_circular.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/gradiant_overlay.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/gradiant_splash.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_bookmark.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_home.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_photos.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_report.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_retour.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_search.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_share.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_user.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_verified.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/ic_wifi.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/itemdetailresto.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/drawable/itemgradiant.xml" value="0.2703125" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/font/fonttextfile.xml" value="0.284375" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/accueil.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_blur.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_check_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_detailresto.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_exemple_qrcode.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_following.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_follows.xml" value="0.16" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_maps_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_my_post.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_reserve.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/activity_verfication_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/background_border.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/code_reservation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/edit_profil.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/explore.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/followingfrag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/followsfrag.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragement_subs.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragementfollowers.xml" value="0.16" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragementpost.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragementreservation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragementresto.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragementsearch.xml" value="0.16" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragementuser.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragment_fragementuser.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/fragment_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/item_bulle_messages_connected.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/itemgradiant.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/login.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/mypostfrag.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/notification.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/postfrag.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/profil.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/reservationfrag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/restosfrag.xml" value="0.536" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/searchfrag.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/searchtoolbar.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/subsfrag.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/toolbar.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/toolbark.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/transtool.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/layout/userfrag.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/menu/menu.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/ASUS/Desktop/Mini_Projet/app/src/main/res/menu/menu2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/drawable/ic_retour.xml" value="0.1" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/drawable/ic_search.xml" value="0.1335" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/drawable/ic_settings.xml" value="0.1335" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_forgetpsd.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl1.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl2.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl7.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_lvl8.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_paypal2.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_sigup.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/activity_userprofile.xml" value="0.264" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/dropdown_item.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/edit_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/item_bulle_messages_connected.xml" value="0.1609375" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/paypal.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/rtc.xml" value="0.152" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/layout/toolbarre.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/menu/bottum_bar.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/menu/menu.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/LEGION/Desktop/android/Mini_Projet-main/app/src/main/res/menu/menu2.xml" value="0.1609375" />
+        <entry key="app/src/main/res/drawable/background_border.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_retour.xml" value="0.2085" />
+        <entry key="app/src/main/res/font/poppins.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/activity_check_user.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/edit_profil.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragementsearch.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragementuser.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/item_bulle_messages_connected.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/mypostfrag.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/notification.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/profil.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/sign_up.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/subsfrag.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2453125" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2453125" />
+        <entry key="app/src/main/res/menu/menu2.xml" value="0.2453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
